@@ -11,3 +11,9 @@ Jvav-CC全名Jvav-C++China
 是真正的小学生语言
 
 往后会一点点更新
+
+v1.1更新
+支持全C++关键词
+计划增加拼音支持
+下载
+https://whyyyyyyy.lanzous.com/icmvqab
